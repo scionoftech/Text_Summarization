@@ -21,7 +21,8 @@ This is a very interesting approach. Here, we generate new sentences from the or
 Text Summarization is implemented with below approches,
 
 * LSTM,Encoder-Decodef and Attention 
-* TextRank Algorithm and PyTextRank Text Summarization
+* TextRank Algorithm
+* PyTextRank Text Summarization
 * LexRank Text Summarization
 * Gensim Text Summarization
 * PyTeaser Text Summarization
